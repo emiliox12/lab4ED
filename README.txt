@@ -1,3 +1,3 @@
-Nombre: Emilio Mendez - Jean Rojas
+Nombre: Emilio Mendez
 Semestre 3°
-Código: 201122870 - 201820143
+Código: 201122870
